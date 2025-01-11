@@ -1,2 +1,2 @@
-# Daiss
+.Daiss
 Lupisss Daisss
